@@ -6,4 +6,4 @@ Oxygen XML Author (DITA)
 - Final output PDF file
 - Working files are included in a separage file
 ## Note
-This document is for portfolio purpose only
+This document is for portfolio purpose only.
