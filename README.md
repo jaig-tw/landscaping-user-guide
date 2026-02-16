@@ -1,4 +1,4 @@
-# landscaping-user-guide
+# Landscaping User Guide
 It is a simple landscaping user guide made using Oxgen DITA.
 # Tools Used
 Oxygen XML Author (DITA)
